@@ -18,15 +18,9 @@ need to pull together everything you've learned about manipulating the DOM,
 responding to events, and communicating with the server. Specifically, you will
 need to:
 
-1. Access the list of toys from an API (mocked using JSON Server) and render
-   each of them in a "card" on the page
-2. Hook up a form that enables users to add new toys. Create an event listener
-   so that, when the form is submitted, the new toy is persisted to the database
-   and a new card showing the toy is added to the DOM
-3. Create an event listener that gives users the ability to click a button to
-   "like" a toy. When the button is clicked, the number of likes should be
-   updated in the database and the updated information should be rendered to the
-   DOM
+1. Access the list of toys from an API (mocked using JSON Server) and render each of them in a "card" on the page
+2. Hook up a form that enables users to add new toys. Create an event listener so that, when the form is submitted, the new toy is persisted to the database and a new card showing the toy is added to the DOM
+3. Create an event listener that gives users the ability to click a button to "like" a toy. When the button is clicked, the number of likes should be updated in the database and the updated information should be rendered to the DOM
 
 The final product should look like this:
 
